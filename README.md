@@ -47,25 +47,21 @@ Beyond coding, I'm enthusiastic about staying up-to-date with the latest trends 
 [//]: # (Short description of the project. Add screenshots or GIFs to demonstrate.)
 
 ## Technologies and Tools
+<div style="display: flex;flex-wrap: wrap; gap: 20px; justify-content: center;margin-top: 30px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="64" height="64">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="64" height="64">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="64" height="64">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="64" height="64">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="64" height="64">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="64" height="64">
 
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
-![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
-![jQuery](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg)
-[//]: # (![Pug]&#40;https://raw.githubusercontent.com/devicons/devicon/master/icons/pug/pug-plain.svg&#41;)
-![Liquid](https://raw.githubusercontent.com/Shopify/liquid/master/logo/logo.svg)
-![Webpack](https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg)
-![Gulp](https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg)
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
-![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
-
-[//]: # (## Statistics)
-
-[//]: # ()
-[//]: # (![Statistics]&#40;link_to_statistics_image&#41;)
+[//]: # (<img src="https://raw.githubusercontent.com/Shopify/liquid/master/logo/logo.svg" alt="Liquid" width="64" height="64">)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="64" height="64">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="64" height="64">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="64" height="64">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="64" height="64">
+</div>
 
 ## License
 
